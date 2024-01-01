@@ -1,5 +1,5 @@
 {
-  "name": "@editorjs/table",
+  "name": "@editorjs/ctable",
   "description": "Table for Editor.js",
   "version": "2.3.1",
   "license": "MIT",
